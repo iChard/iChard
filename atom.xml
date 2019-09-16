@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ichard.github.io/</id>
+    <id>https://ichard.github.io/iChard/</id>
     <title>Gridea</title>
-    <updated>2019-09-16T07:03:49.103Z</updated>
+    <updated>2019-09-16T08:12:08.081Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://ichard.github.io/"/>
-    <link rel="self" href="https://ichard.github.io//atom.xml"/>
+    <link rel="alternate" href="https://ichard.github.io/iChard/"/>
+    <link rel="self" href="https://ichard.github.io/iChard//atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://ichard.github.io//images/avatar.png</logo>
-    <icon>https://ichard.github.io//favicon.ico</icon>
+    <logo>https://ichard.github.io/iChard//images/avatar.png</logo>
+    <icon>https://ichard.github.io/iChard//favicon.ico</icon>
     <rights>All rights reserved 2019, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[hash/chunkhash/contenthash区别]]></title>
-        <id>https://ichard.github.io//post/hashchunkhashcontenthash-qu-bie</id>
-        <link href="https://ichard.github.io//post/hashchunkhashcontenthash-qu-bie">
+        <id>https://ichard.github.io/iChard//post/hashchunkhashcontenthash-qu-bie</id>
+        <link href="https://ichard.github.io/iChard//post/hashchunkhashcontenthash-qu-bie">
         </link>
         <updated>2019-09-16T07:03:01.000Z</updated>
         <content type="html"><![CDATA[<p><a href="https://www.cnblogs.com/ihardcoder/p/5623411.html">参考链接</a></p>
@@ -206,8 +206,8 @@ index1.d8b9fd9f.css  21 bytes       0  [emitted]  index1
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://ichard.github.io//post/hello-gridea</id>
-        <link href="https://ichard.github.io//post/hello-gridea">
+        <id>https://ichard.github.io/iChard//post/hello-gridea</id>
+        <link href="https://ichard.github.io/iChard//post/hello-gridea">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
